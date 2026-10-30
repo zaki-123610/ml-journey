@@ -44,3 +44,6 @@ A loop: change one thing, measure again, keep what improves the result.
 We can go back to any previous step (more data, new features, another model).
 
 Example: DocuMind — switching from ChromaDB to pgvector raised the retrieval hit rate from 87.5% to 93.8%.
+
+<img width="880" height="303" alt="image" src="https://github.com/user-attachments/assets/3944c9e3-cffd-49fc-b94a-729b119c2342" />
+
