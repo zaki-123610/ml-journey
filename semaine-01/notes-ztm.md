@@ -47,3 +47,21 @@ Example: DocuMind — switching from ChromaDB to pgvector raised the retrieval h
 
 <img width="880" height="303" alt="image" src="https://github.com/user-attachments/assets/3944c9e3-cffd-49fc-b94a-729b119c2342" />
 
+
+## Generalization :
+The ability for a machine learning model to perform well on data it hasn't seen before
+
+## Testing model :
+overfitting is when theresult of performance of test id higher then traning , and unbefitting is when the result of performence training is higher than the result of testing
+, and both of them examples of model not bing able to generalize well
+
+## Thongs to remember
+- want to avoid averfitting and underfitting (head towards generality)
+- keep the test set separate at all costs
+- compare apples to apples
+- one best performance metric does nor equal best model
+
+## link to pandas cours 
+
+https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb
+
